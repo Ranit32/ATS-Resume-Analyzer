@@ -2,6 +2,8 @@
 
 An intelligent, AI-powered Applicant Tracking System (ATS) checker built with Python, Streamlit, and Google's Gemini API. This application analyzes resumes against job descriptions to provide a comprehensive match score, keyword analysis, and actionable improvement suggestions.
 
+![ATS Resume Analyzer Interface](assets/app_screenshot.png)
+
 ## ✨ Features
 - **AI-Powered Analysis**: Uses Google Gemini to deeply analyze your resume against the job description.
 - **Detailed Scoring**: Breaks down your ATS score into Keywords, Skills, Experience, Education, and Formatting.
